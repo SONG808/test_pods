@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "pod_test"
-  s.version      = "0.0.1"
+  s.version      = "0.0.2"
   s.summary      = "A short description of pod_test."
 
   # This description is used to generate tags and improve search results.
@@ -28,7 +28,7 @@ Pod::Spec.new do |s|
 测试提交Cocoapods 库 A short description of pod_test.
                    DESC
 
-  s.homepage     = "https://github.com/SONG808"
+  s.homepage     = "https://github.com/SONG808/test_pods"
   # s.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
 
 
